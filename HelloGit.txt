@@ -1,1 +1,2 @@
+Hello Making chanes for the Git after connect with GitHub
 Hello Git File for the first time 
